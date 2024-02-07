@@ -1,4 +1,4 @@
-# BulletinBoard
+# Bulletin Board
 
 **Project title - Bulletin Board for School Events**
 
