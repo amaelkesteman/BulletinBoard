@@ -1,8 +1,6 @@
-# Bulletin Board
+# Bulletin Board for School Events
 
-**Project title - Bulletin Board for School Events**
-
-This is the project conducted for the Distribution Systems - 2024.
+This is the project conducted for the completion of the module Distribution Systems - 2024.
 
 # Overall Architecture
 
