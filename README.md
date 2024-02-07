@@ -26,4 +26,6 @@ The system will consist of three nodes a client, a broker, and a central server.
 * The system will follow a two-tiered centralized client-server architecture.
 * Clients will connect to the server over TCP/IP sockets.
 * The server will maintain a list of connected clients and manage the distribution of news articles.
-* Broker has used a message queuing system acting as an intermediate node. 
+* Broker has used a message queuing system acting as an intermediate node.
+
+The topology of the system is shown in the below figure. 
