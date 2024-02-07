@@ -27,3 +27,5 @@ The system will consist of three nodes a client, a broker, and a central server.
 * Broker has used a message queuing system acting as an intermediate node.
 
 The topology of the system is shown in the below figure. 
+
+![figure](/images/BulletinBoard.png)
